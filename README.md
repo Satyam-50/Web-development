@@ -1,4 +1,4 @@
 # Web-development
 This is my Git repository.
 <br>
-Author-Satyam Vishwakarma
+Author-Satyam Vish
