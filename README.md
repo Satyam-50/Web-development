@@ -1,2 +1,2 @@
 # Web-development
-This is my Git reposiytory.
+This is my Git repository.
